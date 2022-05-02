@@ -1,6 +1,6 @@
 #Git Bash Tutorial
 ##Some bash commands
-- **whoami** >returns users name(in case you forget it )
+- **whoami** >returns users name(in case you forget it **XD**)
 - **cd** > changes to a particular directory
 - **pwd** > Prints path to current directory
 - **ls**  > Lists elements of current directory
